@@ -402,8 +402,8 @@ article {
 .project .text-block p:first-of-type, .project .text-block h3 {
 	/* font-family: "Times New Roman", Times, serif; */
 	font-family: Helvetica;
-	font-size: 14px;
-	line-height: 18px;
+	font-size: 26px;
+	line-height: 28px;
 }
 .project .text-block h3 {
 	text-transform: uppercase;
